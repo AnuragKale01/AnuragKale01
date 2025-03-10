@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Savage Workspace (Task Management App)**  
 - 🌱 Learning **AI-powered development & Cloud Computing**  
 - 🛠 Specializing in **MERN Stack, Python, and DevOps**  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **anukaley09@gmail.com**  
 
 ---
 
