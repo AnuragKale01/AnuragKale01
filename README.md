@@ -8,15 +8,15 @@
 
 ### 🌟 About Me:
 - 🔭 I’m currently working on **Savage Workspace (Task Management App)**  
-- 🌱 Learning **AI-powered development & Cloud Computing**  
-- 🛠 Specializing in **MERN Stack, Python, and DevOps**  
+ 
+- 🛠 Specializing in **JAVA FUllSTACK, Selenium, JIRA, TestNG, Python and Jenkin,REACT**  
 - 📫 Reach me at: **anukaley09@gmail.com**  
 
 ---
 
 ### 🛠 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,aws,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,selenium,jenkins,mongodb,python,java,git" />
 </p>
 
 ---
