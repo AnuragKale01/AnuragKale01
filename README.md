@@ -38,7 +38,7 @@
 
 ### 🚀 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="linkedin.com/in/anurag-kale-a11136213" /></a>
   <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=website" /></a>
 </p>
