@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Savage Workspace (Task Management App)**  
  
 - 🛠 Specializing in **JAVA FUllSTACK, Selenium, JIRA, TestNG, Python and Jenkin,REACT**  
-- 📫 Reach me at: **anukaley09@gmail.com**  
+- 📫 Reach me at: **anukaley09@gmail.com & anuragkale45@gmail.com**  
 
 ---
 
