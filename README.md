@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anurag Kale 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&width=435&lines=🚀+Full+Stack+Developer;💻+Tech+Enthusiast;🎯+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&width=435&lines=Tester;🚀+Full+Stack+Developer;💻+Tech+Enthusiast;🎯+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
